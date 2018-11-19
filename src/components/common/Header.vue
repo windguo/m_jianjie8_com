@@ -1,7 +1,6 @@
 <style>
 .header {
   width: 100%;
-  height: 1.5rem;
   text-align: center;
   line-height: 1.5rem;
   font-size: 0.55rem;
@@ -11,6 +10,11 @@
   justify-content:space-between;
   padding:0 .5rem;
   font-weight:300;
+  background:#fe5a5a;
+  background:-webkit-linear-gradient(281deg,#fe96aa 0,#fe5a5a 100%);
+  background:-moz-linear-gradient(281deg,#fe96aa 0,#fe5a5a 100%);
+  background:-o-linear-gradient(281deg,#fe96aa 0,#fe5a5a 100%);
+  background:linear-gradient(11deg,#fe96aa 0,#fe5a5a 100%)
 }
 .header span a{color:#fff;font-weight: 300;}
 .header i {

@@ -2,6 +2,7 @@
   <div class="main">
     <Header />
     <Slide />
+    <router-link to='/appPublish/wangming'>发布内容</router-link>
     <Footer />
   </div>
 </template>
